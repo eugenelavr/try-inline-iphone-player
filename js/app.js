@@ -1,2 +1,2 @@
-var video = document.querySelector('video');
-makeVideoPlayableInline(video, false);
+// var video = document.querySelector('video');
+// makeVideoPlayableInline(video, false); 
